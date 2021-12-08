@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="id">
+        
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+        <item >11</item>
+        <item >12</item>
+        <item >13</item>
+        <item >14</item>
+        <item >15</item>
+        <item >16</item>
+        <item >17</item>
+        <item >18</item>
+  		 <item >19</item>
+        <item >20</item>
+
+    </string-array>
+    
+    <string-array name="ad">
+        
+<item >Almanya</item>
+<item >Arjantin</item>
+<item >Fransa</item>
+<item >Ispanya</item>
+<item >Italya</item>
+<item >Izlanda</item>
+<item >Japonya</item>
+<item >Kuzey Kıbrıs Türk Cumhuriyeti</item>
+<item >Kolombiya</item>
+<item >Meksika</item>
+<item >Mısır</item>
+<item >Norveç</item>
+<item >Ozbekistan</item>
+<item >Polonya</item>
+<item >Portekiz</item>
+<item >Romanya</item>
+<item >Rusya</item>
+<item >Türkiye</item>
+<item >Ukrayna</item>
+<item >Uruguay</item>
+ 
+    </string-array>
+    
+    <string-array name="logo">
+        
+<item >almanya</item>
+<item >arjantin</item>
+<item >fransa</item>
+<item >ispanya</item>
+<item >italya</item>
+<item >izlanda</item>
+<item >japonya</item>
+<item >kktc</item>
+<item >kolombiya</item>
+<item >meksika</item>
+<item >misir</item>
+<item >norvec</item>
+<item >ozbekistan</item>
+<item >polonya</item>
+<item >portekiz</item>
+<item >romanya</item>
+<item >rusya</item>
+<item >turkey</item>
+<item >ukrayna</item>
+<item >uruguay</item>
+        
+        
+    </string-array>
+    
+    <string-array name="parabirimi">
+        
+<item >Euro</item>
+<item >Arjantin Pesosu</item>
+<item >Euro, CFP Frangı</item>
+<item >Euro</item>
+<item >Euro</item>
+<item >İzlanda Kronu</item>
+<item >Japon Yeni</item>
+<item >Türk Lirası</item>
+<item >Kolombiya Pesosu</item>
+<item >Meksika Pesosu</item>
+<item >Mısır Lirası</item>
+<item >Norveç Kronu</item>
+<item >Özbekistan Somu</item>
+<item >Polonya Zlotisi</item>
+<item >Euro</item>
+<item >Rumen Leyi</item>
+<item >Rus Rublesi</item>
+<item >Türk Lirası</item>
+<item >Ukrayna Grivnası</item>
+<item >Uruguay Pesosu</item>
+        
+        
+        
+        
+        
+        
+        
+        </string-array>
+        
+    
+    
+    <string-array name="baskent" >
+
+        
+<item >Berlin</item>
+<item >Buenos Aires</item>
+<item >Paris</item>
+<item >Madrid</item>
+<item >Roma</item>
+<item >Reykjavik</item>
+<item >Tokyo </item>
+<item >Lefkoşa</item>
+<item >Bogota</item>
+<item >Mexico City</item>
+<item >Kahire</item>
+<item >Oslo</item>
+<item >Taşkent</item>
+<item >Varşova</item>
+<item >Lizbon</item>
+<item >Bükreş</item>
+<item >Moskova</item>
+<item >Ankara</item>
+<item >Kiev</item>
+<item >Montevideo</item>
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    
+     <string-array name="bolge" >
+        
+         
+<item >Orta Avrupa</item>
+<item >Güney Amerika</item>
+<item >Orta Avrupa</item>
+<item >İber Yarımadası</item>
+<item >Güney Avrupa</item>
+<item >Kuzey Avrupa</item>
+<item >Uzakdoğu</item>
+<item >Akdeniz</item>
+<item >Güney Amerika</item>
+<item >Orta Amerika</item>
+<item >Kuzey Afrika</item>
+<item >İskandinav</item>
+<item >Orta Asya</item>
+<item >Doğu Avrupa</item>
+<item >Güney Avrupa</item>
+<item >Balkanlar</item>
+<item >Avrupa</item>
+<item >Orta Doğu</item>
+<item >Doğu Avrupa</item>
+<item >Güney Amerika</item>
+         
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    
+     
+     
+     <string-array name="baskan">
+         
+    
+         
+         
+<item >Frank-Walter Steinmeier</item>
+<item >Alberto Ángel Fernández</item>
+<item >Emmanuel Macron</item>
+<item >Pedro Sanchez</item>
+<item >Sergio Mattarella</item>
+<item >Guðni Th. Jóhannesson</item>
+<item >Fumio Kishida</item>
+<item >Ersin Tatar</item>
+<item >Iván Duque</item>
+<item >Andrés Manuel López Obrador</item>
+<item >Abdülfettah es-Sisi</item>
+<item >Jonas Gahr Støre</item>
+<item >Şevket Mirziyoyev</item>
+<item >Andrzej Duda</item>
+<item >Marcelo Rebelo de Sousa</item>
+<item >Klaus Iohannis</item>
+<item >Vladimir Putin</item>
+<item >Recep Tayyip Erdoğan</item>
+<item >Volodimir Zelenski</item>
+<item >Luis Alberto Lacalle Pou</item>
+         
+          
+                         
+                       
+         
+         
+         
+         
+         
+     </string-array>
+     
+     
+     
+     
+     
+     
+     <string-array name="nufus">
+         
+      
+         
+         
+<item >83.694.929</item>
+<item >39.180.137</item>
+<item >65.707.000</item>
+<item >47.059.533</item>
+<item >60.565.714</item>
+<item >323.810</item>
+<item >126.673.845</item>
+<item >294.906</item>
+<item >47.181.000</item>
+<item >117.409.830</item>
+<item >83.661.000</item>
+<item >5.063.709</item>
+<item >34.949.100</item>
+<item >38.533.299</item>
+<item >10.562.178</item>
+<item >20.121.641</item>
+<item >145.987.803</item>
+<item >83.154.997</item>
+<item >45.480.315</item>
+<item >3.286.000</item>
+         
+                         
+                       
+         
+         
+         
+         
+         
+     </string-array>
+     
+     <string-array name="dil">
+         
+<item >Almanca</item>
+<item >İspanyolca</item>
+<item >Fransızca</item>
+<item >İspanyolca</item>
+<item >İtalyanca</item>
+<item >İzlandaca</item>
+<item >Japonca</item>
+<item >Türkçe</item>
+<item >İspanyolca</item>
+<item >Meksika İspanyolcası</item>
+<item >Modern Standart Arapça</item>
+<item >Norveççe</item>
+<item >Özbekçe</item>
+<item >Lehçe</item>
+<item >Portekizce</item>
+<item >Rumence</item>
+<item >Rusça</item>
+<item >Türkçe</item>
+<item >Ukraynaca</item>
+<item >İspanyolca</item>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+     </string-array>
+</resources>
