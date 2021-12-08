@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/facebook" android:icon="@drawable/facebook" android:title="Facebook"></item>
+    <item android:id="@+id/whatsapp" android:icon="@drawable/whatsapp" android:title="Whatsapp"></item>
+    <item android:id="@+id/instagram" android:icon="@drawable/instagram" android:title="İnstagram"></item>
+<item android:id="@+id/twitter" android:icon="@drawable/twitter" android:title="Twitter"></item>
+</menu>

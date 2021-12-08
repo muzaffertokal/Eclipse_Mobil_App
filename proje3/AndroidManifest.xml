@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proje3"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/projeismi"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/baslik" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        
+          <activity
+            android:name=".facebook"
+            android:icon="@drawable/facebook" android:label="@string/fb"
+        />
+          
+          <activity
+            android:name=".whatsapp"
+            android:icon="@drawable/whatsapp"  android:label="@string/wp"
+        />
+          <activity
+            android:name=".instagram"
+            android:icon="@drawable/instagram"  android:label="@string/in"
+        />
+          <activity
+            android:name=".twitter"
+            android:icon="@drawable/twitter"  android:label="@string/tw" 
+        />
+        
+          
+    </application>
+
+</manifest>

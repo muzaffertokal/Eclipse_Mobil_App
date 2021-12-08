@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/kirmizi" android:icon="@drawable/red" android:title="Kırmızı"></item>
+	    <item android:id="@+id/yesil" android:icon="@drawable/green" android:title="Yeşil"></item>
+	        <item android:id="@+id/mavi" android:icon="@drawable/blue" android:title="Mavi"></item>
+</menu>

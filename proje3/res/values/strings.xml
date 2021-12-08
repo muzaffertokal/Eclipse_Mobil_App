@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="projeismi">proje3</string>
+    <string name="baslik">OptionContextMenu</string>
+    
+    <string name="fb">Facebook Activity</string>
+       <string name="wp">Whatsapp Activity</string>
+          <string name="tw">Twitter Activity</string>
+             <string name="in">İnstagram Activity</string>
+
+</resources>
