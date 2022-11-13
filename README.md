@@ -5,7 +5,7 @@ proje2:  Dört işlem yapabilen basit hesap makinesi. (Calculator with four oper
 
 proje3:  Seçenek İçerik Menü (Option Content Menu)
 
-proje4:  TFF 1.LİG UYGULAMASI 
+proje4:  TFF 1.LİG UYGULAMASI (Football Team Information)
 
 proje5:  Ülke Bilgileri (Country Information)
 
