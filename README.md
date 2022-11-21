@@ -9,6 +9,8 @@ proje4:  TFF 1.LİG UYGULAMASI (Football Team Information)
 
 proje5:  Ülke Bilgileri (Country Information)
 
+proje6:  TCMB Güncel Döviz Kurları (Current Exchange Rates)
+
 Üniversite döneminde yaptığım başlangıç projelerim. (My startup projects that I did during my university years)
 
 
