@@ -1,5 +1,5 @@
 
-# Mobil_Uygulamalar
+# Eclipse Mobil App
 
 proje2:  Dört işlem yapabilen basit hesap makinesi. (Calculator with four operations)
 
